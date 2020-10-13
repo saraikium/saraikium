@@ -2,6 +2,6 @@
 
 
 
-- 🔭 I’m currently working on ... An educational project
-- 🌱 I’m currently learning ... GraphQL, ReasonML, OCaml
+- 🔭 I’m currently working on a travel and expense management project. 
+- 🌱 I’m currently learning Python, Flask and GraphQL. 
 - 😄 Pronouns: He/Him
