@@ -12,3 +12,12 @@ I'm Adnan. A polyglot Software Engineer (Web) in JavaScript and Python. Currentl
 - AWS, GCP, Ubuntu, Git
 
 
+  ## 💻 My contribution Graph
+  
+   ![](https://activity-graph.herokuapp.com/graph?username=saraikium&theme=dracula&hide_border=true&area=true)
+ 
+ <br/>
+ 
+![GitHub metrics](https://metrics.lecoq.io/saraikium)  
+
+<br/>
