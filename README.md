@@ -2,7 +2,7 @@
 
 ### 🧑‍💻 Software Engineer | AI & Automation | Web
 
-I'm a polyglot software engineer passionate about building high-performance systems, developer tooling, and AI-powered automation.** With deep expertise in Python, JavaScript, and TypeScript, I work across the full stack, from web applications to AI-driven automation tools.
+I'm a polyglot software engineer passionate about building high-performance systems, developer tooling, and AI-powered automation.With deep expertise in Python, JavaScript, and TypeScript, I work across the full stack, from web applications to AI-driven automation tools.
 
 Currently, I'm **designing and implementing large-scale software solutions** that combine **efficient algorithms, modern web technologies, and AI** to build **developer-friendly tools and automation systems**. 🚀
 
